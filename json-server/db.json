@@ -1,0 +1,12 @@
+{
+  "list-food": [
+    {
+      "nome": "item editado",
+      "id": 1
+    },
+    {
+      "nome": "item 4",
+      "id": 2
+    }
+  ]
+}
